@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1301" measuredH="889" mockupW="1200" mockupH="800">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="101" y="89" w="1200" h="800" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>squareBreakline</borderStyle>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+        <value>50</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="298" y="203" w="273" h="-1" measuredW="271" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20business%20classification%20or%20catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::SearchBox" x="588" y="201" w="201" h="-1" measuredW="120" measuredH="26" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::DateChooser" x="859" y="203" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DateChooser" x="973" y="203" w="-1" h="-1" measuredW="90" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="859" y="182" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Begin%20date</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="973" y="182" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>End%20date</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::FieldSet" x="298" y="261" w="765" h="395" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <text>Results</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::DataGrid" x="298" y="277" w="764" h="192" measuredW="247" measuredH="168" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Name%2C%20Age%20%2C%20Nickname%2C%20Employee%20%0AItem%201%2C%2037%2C%20Peldi%2C%20height%0AItem%202%2C%2034%2C%20%2C%20height%0AItem%203%2C%2037%2C%20Patata%2C%0AItem%204%2C%2027%2C%20Val%2C%20height%0AItem%205%2C%206%2C%20The%20Guids%2C%20height%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
